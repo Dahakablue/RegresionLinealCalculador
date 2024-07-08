@@ -1,4 +1,4 @@
-Regresión Lineal Calculador
+Regresion Lineal Calculador
 ¡Si hubiera tenido esto antes, me habría ahorrado mucho dolor en estadística inferencial!
 
 Descripción
@@ -87,6 +87,8 @@ html_content = f'''
   <h2>Gráfica de Regresión Lineal</h2>
   <img src="regression_plot.png" alt="Gráfica de Regresión Lineal">
   <h2>Coeficiente de determinación R^2</h2>
+  <img src="regression_plot.png" alt="![image](https://github.com/Dahakablue/RegresionLinealCalculador/assets/72954658/56a95cae-5117-4c70-9c81-3a8151e362b7)
+">
   <p>{r2}</p>
 </body>
 </html>
